@@ -35,4 +35,13 @@ Learn Python for data analysis (NumPy, Pandas, Matplotlib).
 Study molecular representations: SMILES, InChI, Fingerprints, Descriptors.  
 Explore databases: PubChem, ChEMBL, DrugBank.  
 Learn similarity searching & clustering of molecules.
+## Step 3: Computational Chemistry
+Basics of molecular docking and dynamics.  
+Learn QSAR modeling (Quantitative Structure–Activity Relationship).  
+Practice predicting ADMET properties.
+## Step 4: Machine Learning in Chemoinformatics
+Use RDKit + scikit-learn for building predictive models.  
+Learn feature engineering for molecules (molecular descriptors).  
+Move into Deep Learning with DeepChem for drug-target interaction prediction.
+## Step 5: Advanced Specializations
 
