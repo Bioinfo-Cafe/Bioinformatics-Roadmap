@@ -27,3 +27,12 @@ It’s like bioinformatics but for chemical data.
 *Avogadro*  
 *Jmol*  
 5. **Machine Learning Tools**: Scikit-learn, TensorFlow, PyTorch
+# Roadmap to Learning
+## Step 1: Foundations
+Learn basic chemistry concepts: molecular structures, functional groups, SMILES notation.  
+Learn Python for data analysis (NumPy, Pandas, Matplotlib).
+## Step 2: Chemoinformatics Basics
+Study molecular representations: SMILES, InChI, Fingerprints, Descriptors.  
+Explore databases: PubChem, ChEMBL, DrugBank.  
+Learn similarity searching & clustering of molecules.
+
