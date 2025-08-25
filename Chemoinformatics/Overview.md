@@ -44,4 +44,13 @@ Use RDKit + scikit-learn for building predictive models.
 Learn feature engineering for molecules (molecular descriptors).  
 Move into Deep Learning with DeepChem for drug-target interaction prediction.
 ## Step 5: Advanced Specializations
-
+Molecular simulations (MD using GROMACS or AMBER).  
+Integrating Chemoinformatics with Bioinformatics (drug repurposing, network pharmacology).  
+Explore AI/ML-driven drug discovery.
+# Real-world Project Ideas
+1. Drug–Target Interaction Prediction: Use ChEMBL data + ML model to predict whether a compound is active against a protein target.
+2. Virtual Screening Pipeline: Screen compounds from the ZINC database against a disease-related protein.
+3. QSAR Modeling Project: Build a model that predicts the IC50 (drug potency) of compounds.
+4. ADMET Predictor: Use RDKit + ML to predict drug absorption/toxicity.
+5. Molecular Similarity Search Tool: Build a Python app where users input a SMILES string and find similar molecules from PubChem.
+6. Drug Repurposing Project: Identify FDA-approved drugs that may be repurposed for rare diseases using similarity and docking studies.
